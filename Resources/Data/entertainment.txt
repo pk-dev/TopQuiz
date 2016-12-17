@@ -1,0 +1,11 @@
+<MC>Stan Lee served as both the president and chairman of which of these comic book companies<O>Marvel:DC:Image:Dynamite </O><A>Marvel</A>
+<MC>In the Star Wars universe, what species is Chewbacca?<O>Jawa:Trandoshan:Ewok:Wookiee</O><A>Wookiee</A>
+<MC>Which character does Scarlett Johansson play in the 2012 film The Avengers?<O>Wasp:Black Widow:Silver Stable:Scarlet Witch</O><A>Black Widow</A>
+<MC>In the X-Files what is Agent Scully’s first name?<O>Alice:Jean:Dana:Linda</O><A>Dana</A>
+<MC>Which character did Liam Neeson play in Star Wars: Episode 1 - The Phantom Menace?<O>Qui-Gon Jinn:Obi-Wan Kenobi:Anakin Skywalker:Nute Gunray</O><A>Obi-Wan Kenobi</A>
+<MC>Which of these Dwarves was NOT a member of Thorin Oakenshield’s company in the novel The Hobbit?<O>Oriole’s:Gimli:Dwalin:Bifur</O><A>Gimli</A>
+<MC>Who wrote the novel The Time Machine, first published in 1895?<O>Edward Page Mitchell:Jules Verne:H.G.Wells:Edward Bellamy</O><A>H.G.Wells</A>
+<QI>Identify this famous movie from the scene<F>entertainment_Q8.jpg</F><O>Back To the Future:The Dark Knight:Star Wars:Star Trek</O><A>Back To the Future</A>
+<QI>Identify this artifact from the Star Wars series?<F>entertainment_Q9.jpeg</F><O>White Planet:Giant Star:Black Ball:Death Star</O><A>Death Star</A>
+<QI>Identify this actor who played the character of Joker in The Dark Knight <F>entertainment_q10.jpeg</F><O>Jim Carey:Tom Hanks:Heath Ledger:Ben Harper</O><A>Heath Ledger</A>
+<QI>What game are they playing?<F>entertainment_q11.jpeg</F><O>Cricket:Lobi-Lobi:BroomBall:Quidditch</O><A>Quidditch</A>
